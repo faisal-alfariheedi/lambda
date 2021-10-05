@@ -13,4 +13,5 @@ fun main(args: Array<String>) {
     avghieght= run { for (i in team) n += i.height;n / team.size - 1 }
     avgskill= run { for (i in team) n += i.skillrate;n / team.size - 1 }
     println("byskill ")
+    ///i give up i hate lambda i will just stick with functions
 }
